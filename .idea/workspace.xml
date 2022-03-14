@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12cf8e4e-6fe0-4722-8f28-f2bace1d3151" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/code/erpSyncRecordDetail/ErpSyncRecordDetailErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/model/ErpSyncRecordDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/request/ErpSyncRecordDetailCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/request/ErpSyncRecordDetailIdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/request/ErpSyncRecordDetailPageQueryRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/request/ErpSyncRecordDetailUpdateByIdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-common/src/main/java/com/lxzl/ams/common/dto/erpSyncRecordDetail/response/ErpSyncRecordDetailResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-dataaccess/src/main/java/com/lxzl/ams/dataaccess/erpSyncRecordDetail/entity/ErpSyncRecordDetailDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-dataaccess/src/main/java/com/lxzl/ams/dataaccess/erpSyncRecordDetail/mapper/ErpSyncRecordDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-dataaccess/src/main/resources/sqlmap/ErpSyncRecordDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-service/src/main/java/com/lxzl/ams/service/erpSyncRecordDetail/logic/ErpSyncRecordDetailLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-service/src/main/java/com/lxzl/ams/service/erpSyncRecordDetail/logic/impl/ErpSyncRecordDetailLogicImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-service/src/main/java/com/lxzl/ams/service/erpSyncRecordDetail/service/ErpSyncRecordDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-service/src/main/java/com/lxzl/ams/service/erpSyncRecordDetail/service/impl/ErpSyncRecordDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ams-generate/ams-web/src/main/java/com/lxzl/ams/web/controller/erpSyncRecordDetail/ErpSyncRecordDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis_jedis/src/main/java/com/zp/redis/demo/TestPing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zp_redis_2/src/main/java/com/example/zp_redis_2/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ams-generate/src/main/java/com/lxzl/ams/generatecode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ams-generate/src/main/java/com/lxzl/ams/generatecode/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="ProjectId" id="263ZtgSGTTt5QjCluvELtIwsFkZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_project\conpon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-customer-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbang.coupon.customer.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-calculation-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbang.coupon.calculation.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template-impl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geekbang.coupon.template.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-calculation-serv" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zp.coupon.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-calculation-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zp.coupon.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="conpon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zp.coupon.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12cf8e4e-6fe0-4722-8f28-f2bace1d3151" name="Default Changelist" comment="" />
+      <created>1646654449182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646654449182</updated>
+      <workItem from="1646654450335" duration="63571000" />
+      <workItem from="1646995706186" duration="10615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-template-serv/coupon-template-impl/src/main/java/com/geekbang/coupon/template/converter/CouponTemplateConverter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.alibaba.fastjson.JSONException" package="com.alibaba.fastjson" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
